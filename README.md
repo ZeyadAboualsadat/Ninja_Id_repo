@@ -1,16 +1,6 @@
 # ninja_id
 
-ninja id project that contains a photo, name, id and level.
+The mobile app is very simple. It features a card for a ninja character that shows information such as the ninja's name, age, and level. There is also a button that, when pressed, increases the ninja's level.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Demo for the Mobile App:
+https://drive.google.com/file/d/1NUdSUI16qV_jRG-gH6vPearDx4sCtcxb/view?usp=drive_link
